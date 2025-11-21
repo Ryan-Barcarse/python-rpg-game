@@ -12,7 +12,7 @@ the power output of their weapon, winning the game if all monsters are slain.
   - Encapsulated HP, names, and attack behaviors
 
 **Enemy Factory System:**  
-- Beginner Factory generates easy goblins and trolls
+  - Beginner Factory generates easy goblins and trolls
   - Expert Factory generates harder goblins and trolls
   - Uses the Factory Design Pattern to scale enemy types
 
